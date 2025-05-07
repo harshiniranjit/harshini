@@ -1,0 +1,26 @@
+---
+title: "Harshini Ranjit"
+image: pfp.jpg
+about:
+  template: solana
+  image-shape: rounded
+  image-width: 21em
+  links:
+    - text: Email
+      icon: envelope-heart
+      href: mailto:maybeharshu@email.zz
+    - text: YouTube
+      icon: youtube
+      href: https://youtube.com/
+  id: ppc
+---
+
+:::{#ppc}
+## SKILLS
+- R programming 
+- Lab experience 
+- Teaching 
+
+## EDUCATION 
+University of Colorado Denver | GPA: 4.0 | Biology Major & Data Science minor 
+

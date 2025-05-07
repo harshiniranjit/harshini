@@ -1,0 +1,25 @@
+---
+title: "Hobbies"
+editor: visual
+---
+
+## Dancing
+- indian classic dancing (Bharatanatyram)
+- 8+ years of experience
+- performed on stages for fun :) 
+
+![My first solo on stage](dance.jpg)
+
+## Traveling
+- love visiting new places 
+- trying new activities 
+- food!! 
+
+![Ziplining in Munnar](zipline.jpg)
+
+## Crafting 
+- used to create jewelry through quilling 
+- new obsession w/ 3D printing 
+- making clay objects 
+
+![3D printing at Inworks](3d.jpg)
